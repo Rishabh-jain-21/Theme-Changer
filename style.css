@@ -1,0 +1,55 @@
+body{
+    background-color: #053742;
+;
+}
+#head1
+{
+    text-align: center;
+    color: #39A2DB;
+    text-shadow: 2px 2px black;
+}
+#head2
+{
+    text-align: center;
+    color: #39A2DB;
+    text-shadow: 2px 2px black;
+}
+#cir{
+    height: 30px;
+    width: 30px;
+    background-color: #053742;
+    border-radius: 18px;
+}
+#but1
+{
+    transition: 0.3s ease-in-out;
+    position: absolute;
+    background-color: #A2DBFA;
+    font-size: 17px;
+    font-weight: bolder;
+    padding: 3px 40px 3px 4px;
+    border: 1px solid #053742;
+    border-radius: 30px;
+    margin-left: 40%;
+}
+#but1:hover
+{
+    font-size:19px;
+    opacity: .8;
+}
+#but2
+{
+    position: absolute;
+    background-color: #A2DBFA;
+    font-size: 17px;
+    font-weight: bolder;
+    padding: 8px 18px 8px 18px;
+    border: 1px solid #053742;
+    border-radius: 30px;
+    margin-left: 52%;
+}
+#but2:hover
+{
+    font-size:19px;
+    opacity: .8;
+}
